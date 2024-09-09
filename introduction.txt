@@ -1,0 +1,20 @@
+C Programming Syllabus 
+
+(1) Introduction Of Course
+(2) Pre-Processor Directive 
+(3) Variable & Datatype 
+(4) Operator 
+(5) Conditional Statements 
+(6) Loop Statements 
+(7) Practice Programs
+(8) Function
+(9) Pointer 
+(10) Array 
+(11) Structure
+(12) Union 
+(13) File Handling
+(14) Dynamic Memory Allocation
+
+Instagram :- elevatecoders
+
+GitHub :- engineersurajsahani
